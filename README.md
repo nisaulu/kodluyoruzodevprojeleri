@@ -1,2 +1,3 @@
 # Kodluyoruz Frontend Odev Projeler
-kodluyoruz-frontend-odev-projeleri
+
+Kodluyoruz Frontend Beginner eğitiminde verilen ödev projelerini içermektedir.
